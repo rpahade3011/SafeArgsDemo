@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SafeArgsDemo</string>
+    <string name="registration_heading_activity">Click continue for demo of passing arguments using SafeArgs and Navigation Graph</string>
+    <string name="registration_heading_fragment">A demo of passing arguments using SafeArgs</string>
+    <string name="registration_name_hint_text">Name</string>
+    <string name="registration_email_hint_text">Email</string>
+    <string name="registration_password_hint_text">Password</string>
+    <string name="registration_action_button_send_text">Send</string>
+    <string name="details_heading_fragment">Details that are passed using SafeArgs</string>
+    <string name="details_heading_activity">Details demo that are passed using SafeArgs</string>
+    <string name="details_name_text">Name: </string>
+    <string name="details_email_text">Email: </string>
+    <string name="details_password_text">Password: </string>
+    <string name="user_choice_heading">Click continue for demo of passing arguments using SafeArgs and Navigation Graph</string>
+    <string name="click_continue_btn_text">Continue</string>
+</resources>
